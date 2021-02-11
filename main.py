@@ -41,6 +41,7 @@ trainer.train([
 
 name = input("Enter your name: ")
 print("Hello " + name + "! Welcome to the Bot Basketball Service! Ask me a question, and we can have a small conversation about basketball! If you want to leave the bot, just say Bye or bye, and I'll disconnect!")
+print("hello")
 
 while True:
   request = input(name+ ": ")
